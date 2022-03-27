@@ -1,2 +1,2 @@
 # PyTorch_basics
-A repo containing tutorials for the implementation of basic stuff in PyTorch
+A repo containing some implementation of basic neural network architectures in PyTorch
